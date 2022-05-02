@@ -1,0 +1,50 @@
+[
+    {
+      "d_codigo": "20000",
+      "d_asenta": "Aguascalientes Centro",
+      "d_tipo_asenta": "Colonia",
+      "D_mnpio": "Aguascalientes",
+      "d_estado": "Aguascalientes",
+      "d_ciudad": "Aguascalientes",
+      "d_CP": "20001",
+      "c_estado": "01",
+      "c_oficina": "20001",
+      "c_tipo_asenta": "09",
+      "c_mnpio": "001",
+      "id_asenta_cpcons": "0001",
+      "d_zona": "Urbano",
+      "c_cve_ciudad": "01"
+    },
+    {
+      "d_codigo": "20010",
+      "d_asenta": "Colinas del Rio",
+      "d_tipo_asenta": "Fraccionamiento",
+      "D_mnpio": "Aguascalientes",
+      "d_estado": "Aguascalientes",
+      "d_ciudad": "Aguascalientes",
+      "d_CP": "20001",
+      "c_estado": "01",
+      "c_oficina": "20001",
+      "c_tipo_asenta": "21",
+      "c_mnpio": "001",
+      "id_asenta_cpcons": "0005",
+      "d_zona": "Urbano",
+      "c_cve_ciudad": "01"
+    },
+    {
+      "d_codigo": "20010",
+      "d_asenta": "Olivares Santana",
+      "d_tipo_asenta": "Colonia",
+      "D_mnpio": "Aguascalientes",
+      "d_estado": "Aguascalientes",
+      "d_ciudad": "Aguascalientes",
+      "d_CP": "20001",
+      "c_estado": "01",
+      "c_oficina": "20001",
+      "c_tipo_asenta": "09",
+      "c_mnpio": "001",
+      "id_asenta_cpcons": "0006",
+      "d_zona": "Urbano",
+      "c_cve_ciudad": "01"
+    }
+]
